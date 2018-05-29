@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DOCUMENT>
+<item><!-- 必填   最多出现1次-->
+	<key><![CDATA[关键字]]></key><!--关键字 必填   最多出现1次-->
+	<display><!--数据内容 必填   最多出现1次-->
+		<title><![CDATA[【婴儿大便】如何观察婴儿大便_如何从大便看宝宝的饮食情况_]]></title><!--标题 必填   最多出现1次-->
+		<titleurl><![CDATA[http://www.**.com]]></titleurl><!--标题链接 必填   最多出现1次-->
+		<img><!-- 最多出现1次-->
+			<img><![CDATA[http://img31.mtime.cn/pi/2015/05/22/150638.75143606_1000X1000.jpg]]></img><!-- 必填   最多出现1次-->
+		</img>
+		<abstract><![CDATA[通过观察婴儿大便，比如颜色、形状、次数等，可以了解宝宝的身体状况，作为判断孩子是否生病的依据。那么，如何观察婴儿大便？婴儿大便的常见问题及护理方法是什么？]]></abstract><!-- 必填   最多出现1次-->
+		<moretxt><![CDATA[查看详情>>]]></moretxt><!-- 最多出现1次-->
+		<moreurl><![CDATA[http://www.***.com]]></moreurl><!-- 最多出现1次-->
+		<link><!-- 必填   最多出现6次-->
+			<value><![CDATA[婴儿的大便]]></value><!-- 必填   最多出现1次-->
+			<url><![CDATA[http://www.***.com]]></url><!-- 必填   最多出现1次-->
+		</link>
+		<showurl><![CDATA[www.**.com]]></showurl><!--来源链接 必填   最多出现1次-->
+	</display>
+</item>
+</DOCUMENT>
