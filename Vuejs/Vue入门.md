@@ -19,7 +19,6 @@ __数据劫持:__<span data-type="color" style="color:rgb(36, 41, 46)"><span dat
 ![image.png | left | 730x390](https://cdn.yuque.com/yuque/0/2018/png/103176/1525847691363-be00a668-39ec-4c11-b731-ccb28b54fb9c.png "")
 
 用JavaScript实现 [https://github.com/DMQ/mvvm](https://github.com/DMQ/mvvm)
-演示：[http://bing.2345.com/mvvm/mvvm.html](http://bing.2345.com/mvvm/mvvm.html) （host: 172.16.0.156 bing.2345.com）
 
 ## 四、入门
 #### 简介
